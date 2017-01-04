@@ -1,0 +1,81 @@
+[16-Dec-2016 19:32:33 America/Denver] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 9
+[16-Dec-2016 19:58:41 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[16-Dec-2016 20:06:35 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[16-Dec-2016 20:11:21 America/Denver] PHP Parse error:  syntax error, unexpected ';' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[16-Dec-2016 20:26:26 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 8
+[16-Dec-2016 20:34:48 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[16-Dec-2016 20:52:23 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 14:59:15 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 15:00:43 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 15:05:58 America/Denver] PHP Notice:  Array to string conversion in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 9
+[17-Dec-2016 15:06:06 America/Denver] PHP Notice:  Array to string conversion in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 9
+[17-Dec-2016 15:06:19 America/Denver] PHP Notice:  Array to string conversion in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 9
+[17-Dec-2016 15:21:45 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 93
+[17-Dec-2016 15:54:41 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 15:54:41 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 89
+[17-Dec-2016 15:54:48 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 15:54:48 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 89
+[17-Dec-2016 15:55:08 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 15:55:08 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 89
+[17-Dec-2016 15:59:49 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[17-Dec-2016 16:00:20 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[17-Dec-2016 16:00:22 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[17-Dec-2016 16:00:37 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[17-Dec-2016 16:03:47 America/Denver] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 5
+[17-Dec-2016 16:04:36 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 3
+[17-Dec-2016 16:04:36 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 90
+[17-Dec-2016 16:15:24 America/Denver] PHP Warning:  file_get_contents(http://www.weather-forecast.com/locations/.$_GET['city']./forecasts/latest): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 7
+[17-Dec-2016 16:15:24 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 11
+[17-Dec-2016 16:15:41 America/Denver] PHP Warning:  file_get_contents(http://www.weather-forecast.com/locations/aasdf/forecasts/latest): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 7
+[17-Dec-2016 16:15:41 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 11
+[17-Dec-2016 16:30:28 America/Denver] PHP Warning:  file_get_contents(http://www.weather-forecast.com/locations/aasdf/forecasts/latest): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 13
+[17-Dec-2016 16:30:28 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 17
+[17-Dec-2016 16:32:18 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 100
+[17-Dec-2016 16:37:56 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 100
+[17-Dec-2016 16:37:57 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 100
+[17-Dec-2016 16:40:24 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 102
+[17-Dec-2016 16:40:38 America/Denver] PHP Notice:  Undefined variable: weather in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 102
+[17-Dec-2016 16:57:16 America/Denver] PHP Notice:  Undefined variable: error in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 107
+[17-Dec-2016 16:58:38 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[21-Dec-2016 21:20:07 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[25-Dec-2016 11:12:56 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[26-Dec-2016 06:53:26 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[26-Dec-2016 08:22:08 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[27-Dec-2016 05:21:35 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[30-Dec-2016 04:52:52 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[30-Dec-2016 08:21:57 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[31-Dec-2016 16:40:45 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[01-Jan-2017 15:29:08 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[03-Jan-2017 16:41:47 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[03-Jan-2017 16:49:28 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 13
+[03-Jan-2017 16:49:41 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 13
+[03-Jan-2017 16:50:34 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[03-Jan-2017 16:51:38 America/Denver] PHP Warning:  file_get_contents(http://api.openweathermap.org/data/2.5/weather?q=london,uk&amp;appid=b1b15e88fa797225412429c1c50c122a1): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 11
+[03-Jan-2017 16:59:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 20
+[03-Jan-2017 16:59:04 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 20
+[03-Jan-2017 16:59:42 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 20
+[03-Jan-2017 16:59:46 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 20
+[03-Jan-2017 17:00:28 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 19
+[03-Jan-2017 17:00:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 19
+[03-Jan-2017 17:02:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 19
+[03-Jan-2017 17:02:32 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 19
+[03-Jan-2017 17:03:03 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 8
+[03-Jan-2017 17:03:17 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 8
+[03-Jan-2017 17:03:26 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 8
+[03-Jan-2017 17:08:28 America/Denver] PHP Parse error:  syntax error, unexpected '"."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:08:31 America/Denver] PHP Parse error:  syntax error, unexpected '"."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:09:46 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:11:04 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[03-Jan-2017 17:11:27 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:17:32 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:19:19 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:19:29 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:19:33 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:19:43 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:19:45 America/Denver] PHP Parse error:  syntax error, unexpected '"'."' (T_CONSTANT_ENCAPSED_STRING) in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 14
+[03-Jan-2017 17:19:49 America/Denver] PHP Notice:  Undefined index: city in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 6
+[03-Jan-2017 17:24:03 America/Denver] PHP Notice:  Use of undefined constant temp - assumed 'temp' in /home2/zoescome/public_html/jadele/6-PHP/WeatherScrapper/index.php on line 18
